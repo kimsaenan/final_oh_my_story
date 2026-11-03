@@ -1,0 +1,1379 @@
+{
+ "_meta": {
+  "source": "Oh! My Speaking 6 Teacher's Guide (Scope & Sequence p.4-5, Teaching Tips p.6-7, Unit 01 p.9-16), Word List, Flashcards, Worksheet A/B",
+  "book": "Oh! My Speaking 6",
+  "note": "Unit 01만 이야기 씨앗(seeds)·편집자 대사·교재 원음까지 준비. Unit 02~08은 Scope & Sequence 정보만 있고 AI 모드에서 '체험'으로 열림."
+ },
+ "units": [
+  {
+   "id": "b6_u01",
+   "book": 6,
+   "no": 1,
+   "title": "I like swimming best.",
+   "theme": "Seasonal activities",
+   "theme_ko": "계절 활동",
+   "key_patterns": [
+    "I enjoy swimming.",
+    "I like swimming best."
+   ],
+   "vocabulary": [
+    "swimming",
+    "surfing",
+    "sunbathing",
+    "diving",
+    "snorkeling",
+    "building sandcastles",
+    "collecting seashells",
+    "playing beach volleyball",
+    "building snowmen",
+    "having snowball fights",
+    "making snow angels",
+    "skiing",
+    "snowboarding",
+    "ice skating"
+   ],
+   "useful_expressions": [
+    "Let's go surfing together!"
+   ],
+   "useful_questions": [
+    "What do you like doing in the summer?",
+    "How about surfing?"
+   ],
+   "goals": [
+    "Talking about favorite seasonal activities",
+    "Talking about what you like doing",
+    "Emphasizing how much you like doing it"
+   ],
+   "pattern_stems": [
+    "i enjoy",
+    "i like ~ best"
+   ],
+   "vocabulary_ko": {
+    "swimming": "수영하는 것",
+    "surfing": "서핑하는 것",
+    "sunbathing": "일광욕하는 것",
+    "diving": "다이빙하는 것",
+    "snorkeling": "스노클링 하는 것",
+    "building sandcastles": "모래성을 쌓는 것",
+    "collecting seashells": "조개껍데기를 모으는 것",
+    "playing beach volleyball": "비치발리볼을 하는 것",
+    "building snowmen": "눈사람을 만드는 것",
+    "having snowball fights": "눈싸움하는 것",
+    "making snow angels": "스노우 엔젤을 만드는 것",
+    "skiing": "스키를 타는 것",
+    "snowboarding": "스노보드를 타는 것",
+    "ice skating": "스케이트를 타는 것",
+    "flying kites": "연을 날리는 것",
+    "drawing": "그림을 그리는 것",
+    "singing": "노래하는 것",
+    "eating ice cream": "아이스크림을 먹는 것"
+   },
+   "season": {
+    "summer": [
+     "swimming",
+     "surfing",
+     "sunbathing",
+     "diving",
+     "snorkeling",
+     "building sandcastles",
+     "collecting seashells",
+     "playing beach volleyball"
+    ],
+    "winter": [
+     "building snowmen",
+     "having snowball fights",
+     "making snow angels",
+     "skiing",
+     "snowboarding",
+     "ice skating"
+    ]
+   },
+   "scene": "park",
+   "dialogue_audio": "dialogue.unit01",
+   "opening": "Beep! Jack and Amy love summer. Now I want to hear YOUR story! Let's go!",
+   "opening_ko": "삐빅! Jack과 Amy는 여름을 정말 좋아해. 이제 너의 이야기를 듣고 싶어! 출발!",
+   "teaching_tips_source": "Oh! My Speaking 6 Teacher's Guide p.6-7 → prompts/wacky_tutor_system.md 2장 (T1~T7)",
+   "key_expressions": [
+    {
+     "en": "I enjoy ~.",
+     "ko": "나는 ~하는 걸 즐겨.",
+     "audio": "enjoy.swimming"
+    },
+    {
+     "en": "I like ~ best.",
+     "ko": "나는 ~하는 게 제일 좋아.",
+     "audio": "best.swimming"
+    }
+   ],
+   "frame": "I enjoy ___. I like ___ best.",
+   "ko_keywords": {
+    "서핑": "surfing",
+    "수영": "swimming",
+    "일광욕": "sunbathing",
+    "다이빙": "diving",
+    "스노클링": "snorkeling",
+    "모래성": "building sandcastles",
+    "조개": "collecting seashells",
+    "비치발리볼": "playing beach volleyball",
+    "배구": "playing beach volleyball",
+    "눈사람": "building snowmen",
+    "눈싸움": "having snowball fights",
+    "스노우 엔젤": "making snow angels",
+    "눈천사": "making snow angels",
+    "스노보드": "snowboarding",
+    "스키": "skiing",
+    "스케이트": "ice skating",
+    "연날리기": "flying kites",
+    "연 날리": "flying kites",
+    "노래": "singing",
+    "그림": "drawing"
+   },
+   "seeds": [
+    {
+     "id": "summer",
+     "title": "신나는 여름 방학",
+     "emoji": "🏖️",
+     "desc": "Jack, Amy와 바닷가로! 파도가 가져온 선물은?",
+     "scene": "beach",
+     "opening": {
+      "speaker": "wacky",
+      "en": "Beep! It's summer vacation! Let's go to the beach!",
+      "ko": "삐빅! 여름 방학이야! 바닷가에 가자!"
+     },
+     "pages": [
+      {
+       "kind": "expression",
+       "stage": "시작",
+       "speaker": "amy",
+       "q_speaker": "amy",
+       "q": "I enjoy swimming! What do you enjoy in the summer?",
+       "q_ko": "나는 수영을 즐겨! 너는 여름에 뭘 즐겨?",
+       "q_audio": "q.summer",
+       "frame": "I enjoy ___.",
+       "choices": [
+        {
+         "en": "I enjoy surfing.",
+         "keys": [
+          "surf"
+         ],
+         "ko_keys": []
+        },
+        {
+         "en": "I enjoy building sandcastles.",
+         "keys": [
+          "sandcastle"
+         ],
+         "ko_keys": []
+        }
+       ],
+       "react": "{W}? Me, too! Let's go!",
+       "react_ko": "{ko}? 나도야! 가자!",
+       "narr": "{name} goes to the beach with Amy. {Name} enjoys {w}.",
+       "narr_ko": "{name_ko}는 Amy와 바닷가에 가요. {name_ko}는 {ko}을 즐겨요.",
+       "scene": "beach",
+       "beat": "Start: they arrive at the beach. Ask what the child enjoys (key expression I enjoy ~)."
+      },
+      {
+       "kind": "imagine",
+       "stage": "사건",
+       "speaker": "wacky",
+       "q_speaker": "wacky",
+       "q": "Oh! A big wave brings something. Is it a bottle or a shell?",
+       "q_ko": "어! 큰 파도가 뭔가를 가져왔어. 병일까, 조개일까?",
+       "choices": [
+        {
+         "en": "A bottle!",
+         "keys": [
+          "bottle"
+         ],
+         "ko_keys": [
+          "병"
+         ]
+        },
+        {
+         "en": "A shell!",
+         "keys": [
+          "shell"
+         ],
+         "ko_keys": [
+          "조개"
+         ]
+        }
+       ],
+       "branches": [
+        {
+         "keys": [
+          "bottle"
+         ],
+         "ko_keys": [
+          "병"
+         ],
+         "react": "Beep! A bottle! There is a map inside!",
+         "react_ko": "삐빅! 병이야! 안에 지도가 있어!",
+         "narr": "A big wave brings a bottle. There is a treasure map inside!",
+         "narr_ko": "큰 파도가 병을 가져왔어요. 병 안에는 보물 지도가 있어요!",
+         "stickers": [
+          "bottle",
+          "map"
+         ],
+         "scene": "beach",
+         "next": {
+          "q": "The map shows a little island. Who lives there?",
+          "q_ko": "지도에 작은 섬이 있어. 거기엔 누가 살까?",
+          "choices": [
+           {
+            "en": "A crab family.",
+            "keys": [
+             "crab"
+            ],
+            "ko_keys": [
+             "꽃게",
+             "게"
+            ]
+           },
+           {
+            "en": "A friendly turtle.",
+            "keys": [
+             "turtle"
+            ],
+            "ko_keys": [
+             "거북"
+            ]
+           }
+          ]
+         }
+        },
+        {
+         "keys": [
+          "shell"
+         ],
+         "ko_keys": [
+          "조개"
+         ],
+         "react": "Wow, a shiny shell! Listen, it can talk!",
+         "react_ko": "우와, 반짝이는 조개! 들어 봐, 말을 해!",
+         "narr": "A big wave brings a shiny shell. The shell can talk!",
+         "narr_ko": "큰 파도가 반짝이는 조개를 가져왔어요. 조개가 말을 해요!",
+         "stickers": [
+          "collecting seashells"
+         ],
+         "scene": "beach",
+         "next": {
+          "q": "The shell says, \"Help!\" Who needs help?",
+          "q_ko": "조개가 말해요. \"도와줘!\" 누가 도움이 필요할까?",
+          "choices": [
+           {
+            "en": "A crab family.",
+            "keys": [
+             "crab"
+            ],
+            "ko_keys": [
+             "꽃게",
+             "게"
+            ]
+           },
+           {
+            "en": "A little turtle.",
+            "keys": [
+             "turtle"
+            ],
+            "ko_keys": [
+             "거북"
+            ]
+           }
+          ]
+         }
+        }
+       ],
+       "other": {
+        "keys": [],
+        "ko_keys": [],
+        "react": "{Child}? Wow, what a surprise!",
+        "react_ko": "{child}? 우와, 깜짝이야!",
+        "narr": "A big wave brings something special: {idea}!",
+        "narr_ko": "큰 파도가 특별한 걸 가져왔어요: {idea}!",
+        "stickers": [],
+        "scene": "beach",
+        "next": null
+       },
+       "beat": "Event: a wave brings something. The child decides what it is."
+      },
+      {
+       "kind": "imagine",
+       "stage": "해결",
+       "speaker": "jack",
+       "q_speaker": "wacky",
+       "q": "Who do you meet?",
+       "q_ko": "누구를 만날까?",
+       "choices": [
+        {
+         "en": "A crab family.",
+         "keys": [
+          "crab"
+         ],
+         "ko_keys": [
+          "꽃게",
+          "게"
+         ]
+        },
+        {
+         "en": "A friendly turtle.",
+         "keys": [
+          "turtle"
+         ],
+         "ko_keys": [
+          "거북"
+         ]
+        }
+       ],
+       "branches": [
+        {
+         "keys": [
+          "crab"
+         ],
+         "ko_keys": [
+          "꽃게",
+          "게"
+         ],
+         "react": "A crab family! They wave at us!",
+         "react_ko": "꽃게 가족이다! 우리한테 손을 흔들어!",
+         "narr": "On the island, a crab family says hello to {name}.",
+         "narr_ko": "섬에서 꽃게 가족이 {name_ko}에게 인사해요.",
+         "stickers": [
+          "crab"
+         ],
+         "scene": "beach",
+         "next": null
+        },
+        {
+         "keys": [
+          "turtle"
+         ],
+         "ko_keys": [
+          "거북"
+         ],
+         "react": "A turtle! It smiles at us!",
+         "react_ko": "거북이다! 우리를 보고 웃어!",
+         "narr": "A friendly turtle swims to {name} and smiles.",
+         "narr_ko": "다정한 거북이가 {name_ko}에게 헤엄쳐 와서 웃어요.",
+         "stickers": [
+          "turtle"
+         ],
+         "scene": "beach",
+         "next": null
+        }
+       ],
+       "other": {
+        "keys": [],
+        "ko_keys": [],
+        "react": "{Child}! Hello, new friend!",
+        "react_ko": "{child}! 안녕, 새 친구!",
+        "narr": "{name} meets a new friend: {idea}. They smile.",
+        "narr_ko": "{name_ko}는 새 친구를 만나요: {idea}. 모두 웃어요.",
+        "stickers": [],
+        "scene": "beach",
+        "next": null
+       },
+       "beat": "Solve: they meet a new friend. The child decides who."
+      },
+      {
+       "kind": "expression",
+       "stage": "결말",
+       "speaker": "wacky",
+       "q_speaker": "wacky",
+       "q": "Our new friends like dancing best. What do you like best?",
+       "q_ko": "새 친구들은 춤추는 걸 제일 좋아해. 너는 뭐가 제일 좋아?",
+       "frame": "I like ___ best.",
+       "choices": [
+        {
+         "en": "I like swimming best.",
+         "keys": [
+          "swim"
+         ],
+         "ko_keys": []
+        },
+        {
+         "en": "I like building sandcastles best.",
+         "keys": [
+          "sandcastle"
+         ],
+         "ko_keys": []
+        }
+       ],
+       "react": "Beep! I like {w} best, too! {together}",
+       "react_ko": "삐빅! 나도 {ko}이 제일 좋아! 우리 같이 하자!",
+       "narr": "Everyone enjoys {w} together. What a happy summer day!",
+       "narr_ko": "모두 함께 {ko}을 즐겨요. 정말 행복한 여름날이에요!",
+       "scene": "beach",
+       "beat": "Ending: ask what the child likes best (I like ~ best) and end with Let's go ~ together!"
+      }
+     ]
+    },
+    {
+     "id": "winter",
+     "title": "눈 오는 겨울",
+     "emoji": "⛄",
+     "desc": "하얀 눈이 펑펑! 눈사람이 눈을 떴어요",
+     "scene": "snow",
+     "opening": {
+      "speaker": "wacky",
+      "en": "Beep! Brrr! It's snowing! Look at the white hill!",
+      "ko": "삐빅! 부르르! 눈이 와! 하얀 언덕을 봐!"
+     },
+     "pages": [
+      {
+       "kind": "expression",
+       "stage": "시작",
+       "speaker": "jack",
+       "q_speaker": "jack",
+       "q": "Brrr! I enjoy skiing! What do you enjoy in the winter?",
+       "q_ko": "부르르! 나는 스키를 즐겨! 너는 겨울에 뭘 즐겨?",
+       "q_audio": "q.winter",
+       "frame": "I enjoy ___.",
+       "choices": [
+        {
+         "en": "I enjoy building snowmen.",
+         "keys": [
+          "snowm"
+         ],
+         "ko_keys": []
+        },
+        {
+         "en": "I enjoy ice skating.",
+         "keys": [
+          "skat"
+         ],
+         "ko_keys": []
+        }
+       ],
+       "react": "{W}? Cool! Let's go!",
+       "react_ko": "{ko}? 멋지다! 가자!",
+       "narr": "It's snowing! {name} enjoys {w} with Jack.",
+       "narr_ko": "눈이 와요! {name_ko}는 Jack과 {ko}을 즐겨요.",
+       "scene": "snow",
+       "beat": "Start: snowy day. Ask what the child enjoys in winter (I enjoy ~)."
+      },
+      {
+       "kind": "imagine",
+       "stage": "사건",
+       "speaker": "wacky",
+       "q_speaker": "wacky",
+       "q": "Look! A snowman opens its eyes! Is it happy or sad?",
+       "q_ko": "봐! 눈사람이 눈을 떴어! 기분이 좋을까, 슬플까?",
+       "choices": [
+        {
+         "en": "It's happy!",
+         "keys": [
+          "happy"
+         ],
+         "ko_keys": [
+          "기뻐",
+          "좋아",
+          "행복"
+         ]
+        },
+        {
+         "en": "It's sad.",
+         "keys": [
+          "sad"
+         ],
+         "ko_keys": [
+          "슬퍼",
+          "슬프"
+         ]
+        }
+       ],
+       "branches": [
+        {
+         "keys": [
+          "happy",
+          "glad"
+         ],
+         "ko_keys": [
+          "기뻐",
+          "좋아",
+          "행복"
+         ],
+         "react": "A happy snowman! It wants to play!",
+         "react_ko": "신난 눈사람이야! 같이 놀고 싶대!",
+         "narr": "The snowman opens its eyes and laughs. It wants to play!",
+         "narr_ko": "눈사람이 눈을 뜨고 웃어요. 같이 놀고 싶대요!",
+         "stickers": [
+          "building snowmen"
+         ],
+         "scene": "snow",
+         "next": {
+          "q": "The snowman says, \"Let's go!\" Where do you go?",
+          "q_ko": "눈사람이 말해요. \"가자!\" 어디로 갈까?",
+          "choices": [
+           {
+            "en": "To the ice castle!",
+            "keys": [
+             "castle"
+            ],
+            "ko_keys": [
+             "성"
+            ]
+           },
+           {
+            "en": "To the big hill!",
+            "keys": [
+             "hill"
+            ],
+            "ko_keys": [
+             "언덕"
+            ]
+           }
+          ]
+         }
+        },
+        {
+         "keys": [
+          "sad"
+         ],
+         "ko_keys": [
+          "슬퍼",
+          "슬프"
+         ],
+         "react": "Oh no! It lost its hat!",
+         "react_ko": "저런! 모자를 잃어버렸대!",
+         "narr": "The snowman is sad. It lost its red hat.",
+         "narr_ko": "눈사람이 슬퍼요. 빨간 모자를 잃어버렸어요.",
+         "stickers": [
+          "building snowmen"
+         ],
+         "scene": "snow",
+         "next": {
+          "q": "Where is the hat? In the tree or under the snow?",
+          "q_ko": "모자가 어디 있을까? 나무 위일까, 눈 밑일까?",
+          "choices": [
+           {
+            "en": "In the tree!",
+            "keys": [
+             "tree"
+            ],
+            "ko_keys": [
+             "나무"
+            ]
+           },
+           {
+            "en": "Under the snow!",
+            "keys": [
+             "under",
+             "snow"
+            ],
+            "ko_keys": [
+             "눈 밑",
+             "눈속"
+            ]
+           }
+          ]
+         }
+        }
+       ],
+       "other": {
+        "keys": [],
+        "ko_keys": [],
+        "react": "{Child}? Wow!",
+        "react_ko": "{child}? 우와!",
+        "narr": "The snowman opens its eyes and says, \"{child}\"",
+        "narr_ko": "눈사람이 눈을 뜨고 말해요. \"{child}\"",
+        "stickers": [
+         "building snowmen"
+        ],
+        "scene": "snow",
+        "next": {
+         "q": "The snowman says, \"Let's go!\" Where do you go?",
+         "q_ko": "눈사람이 말해요. \"가자!\" 어디로 갈까?",
+         "choices": [
+          {
+           "en": "To the ice castle!",
+           "keys": [
+            "castle"
+           ],
+           "ko_keys": [
+            "성"
+           ]
+          },
+          {
+           "en": "To the big hill!",
+           "keys": [
+            "hill"
+           ],
+           "ko_keys": [
+            "언덕"
+           ]
+          }
+         ]
+        }
+       },
+       "beat": "Event: the snowman comes alive. The child decides how it feels."
+      },
+      {
+       "kind": "imagine",
+       "stage": "해결",
+       "speaker": "amy",
+       "q_speaker": "wacky",
+       "q": "Where do you go?",
+       "q_ko": "어디로 갈까?",
+       "choices": [
+        {
+         "en": "To the ice castle!",
+         "keys": [
+          "castle"
+         ],
+         "ko_keys": [
+          "성"
+         ]
+        },
+        {
+         "en": "To the big hill!",
+         "keys": [
+          "hill"
+         ],
+         "ko_keys": [
+          "언덕"
+         ]
+        }
+       ],
+       "branches": [
+        {
+         "keys": [
+          "castle"
+         ],
+         "ko_keys": [
+          "성"
+         ],
+         "react": "An ice castle! It sparkles!",
+         "react_ko": "얼음성이다! 반짝반짝해!",
+         "narr": "They slide to a shiny ice castle. It sparkles!",
+         "narr_ko": "모두 미끄러져 반짝이는 얼음성에 도착해요!",
+         "stickers": [],
+         "scene": "castle",
+         "next": null
+        },
+        {
+         "keys": [
+          "hill"
+         ],
+         "ko_keys": [
+          "언덕"
+         ],
+         "react": "A big hill! Let's slide! Whee!",
+         "react_ko": "큰 언덕이다! 미끄럼 타자! 야호!",
+         "narr": "They slide down the big hill. Whee!",
+         "narr_ko": "모두 큰 언덕을 미끄러져 내려가요. 야호!",
+         "stickers": [
+          "snowboarding"
+         ],
+         "scene": "snow",
+         "next": null
+        },
+        {
+         "keys": [
+          "tree"
+         ],
+         "ko_keys": [
+          "나무"
+         ],
+         "react": "There it is! In the tree!",
+         "react_ko": "찾았다! 나무 위에 있어!",
+         "narr": "{name} finds the red hat in the tree. The snowman smiles!",
+         "narr_ko": "{name_ko}가 나무 위에서 빨간 모자를 찾아요. 눈사람이 웃어요!",
+         "stickers": [
+          "hat"
+         ],
+         "scene": "snow",
+         "next": null
+        },
+        {
+         "keys": [
+          "under"
+         ],
+         "ko_keys": [
+          "눈 밑",
+          "눈속"
+         ],
+         "react": "Here it is! Under the snow!",
+         "react_ko": "여기 있다! 눈 밑에!",
+         "narr": "{name} finds the red hat under the snow. The snowman smiles!",
+         "narr_ko": "{name_ko}가 눈 밑에서 빨간 모자를 찾아요. 눈사람이 웃어요!",
+         "stickers": [
+          "hat"
+         ],
+         "scene": "snow",
+         "next": null
+        }
+       ],
+       "other": {
+        "keys": [],
+        "ko_keys": [],
+        "react": "{Child}! Great idea!",
+        "react_ko": "{child}! 좋은 생각이야!",
+        "narr": "{name} says, \"{child}\" The snowman claps!",
+        "narr_ko": "{name_ko}가 말해요. \"{child}\" 눈사람이 박수를 쳐요!",
+        "stickers": [],
+        "scene": "snow",
+        "next": null
+       },
+       "beat": "Solve: the adventure or finding the hat."
+      },
+      {
+       "kind": "expression",
+       "stage": "결말",
+       "speaker": "wacky",
+       "q_speaker": "wacky",
+       "q": "The snowman likes snowball fights best. What do you like best?",
+       "q_ko": "눈사람은 눈싸움을 제일 좋아해. 너는 뭐가 제일 좋아?",
+       "frame": "I like ___ best.",
+       "choices": [
+        {
+         "en": "I like having snowball fights best.",
+         "keys": [
+          "snowball"
+         ],
+         "ko_keys": []
+        },
+        {
+         "en": "I like ice skating best.",
+         "keys": [
+          "skat"
+         ],
+         "ko_keys": []
+        }
+       ],
+       "react": "Beep! I like {w} best, too! {together}",
+       "react_ko": "삐빅! 나도 {ko}이 제일 좋아! 우리 같이 하자!",
+       "narr": "{name} and the snowman enjoy {w} together. What a happy winter day!",
+       "narr_ko": "{name_ko}와 눈사람은 함께 {ko}을 즐겨요. 정말 행복한 겨울날이에요!",
+       "scene": "snow",
+       "beat": "Ending: I like ~ best, then Let's go ~ together!"
+      }
+     ]
+    },
+    {
+     "id": "imagine",
+     "title": "내가 만드는 상상 나라",
+     "emoji": "✨",
+     "desc": "Wacky의 마법 상자를 타고 어디든 슝!",
+     "scene": "park",
+     "opening": {
+      "speaker": "wacky",
+      "en": "Beep! My magic box can take us anywhere!",
+      "ko": "삐빅! 내 마법 상자는 어디든 데려다줄 수 있어!"
+     },
+     "pages": [
+      {
+       "kind": "expression",
+       "stage": "시작",
+       "speaker": "amy",
+       "q_speaker": "amy",
+       "q": "I enjoy drawing! What do you enjoy?",
+       "q_ko": "나는 그림 그리기를 즐겨! 너는 뭘 즐겨?",
+       "frame": "I enjoy ___.",
+       "choices": [
+        {
+         "en": "I enjoy swimming.",
+         "keys": [
+          "swim"
+         ],
+         "ko_keys": []
+        },
+        {
+         "en": "I enjoy flying kites.",
+         "keys": [
+          "kite"
+         ],
+         "ko_keys": []
+        }
+       ],
+       "react": "{W}? Fun! Magic box, go!",
+       "react_ko": "{ko}? 재밌겠다! 마법 상자야, 출발!",
+       "narr": "{name} enjoys {w}. Wacky opens the magic box, and they fly away!",
+       "narr_ko": "{name_ko}는 {ko}을 즐겨요. Wacky가 마법 상자를 열자, 모두 날아올라요!",
+       "scene": "park",
+       "beat": "Start: ask what the child enjoys (I enjoy ~). The magic box opens."
+      },
+      {
+       "kind": "imagine",
+       "stage": "사건",
+       "speaker": "wacky",
+       "q_speaker": "wacky",
+       "q": "Where does the magic box take us? Under the sea or up in the sky?",
+       "q_ko": "마법 상자가 어디로 갈까? 바닷속일까, 하늘 위일까?",
+       "choices": [
+        {
+         "en": "Under the sea!",
+         "keys": [
+          "sea",
+          "water"
+         ],
+         "ko_keys": [
+          "바다"
+         ]
+        },
+        {
+         "en": "Up in the sky!",
+         "keys": [
+          "sky",
+          "cloud"
+         ],
+         "ko_keys": [
+          "하늘",
+          "구름"
+         ]
+        }
+       ],
+       "branches": [
+        {
+         "keys": [
+          "sea",
+          "water",
+          "ocean"
+         ],
+         "ko_keys": [
+          "바다"
+         ],
+         "react": "Splash! We are under the sea!",
+         "react_ko": "첨벙! 바닷속이야!",
+         "narr": "The magic box lands under the sea. Fish swim around them.",
+         "narr_ko": "마법 상자가 바닷속에 내려앉아요. 물고기들이 주위를 헤엄쳐요.",
+         "stickers": [
+          "fish",
+          "dolphin"
+         ],
+         "scene": "underwater",
+         "next": {
+          "q": "A little dolphin comes. What does it say?",
+          "q_ko": "작은 돌고래가 왔어. 뭐라고 할까?",
+          "choices": [
+           {
+            "en": "Hello, friends!",
+            "keys": [
+             "hello",
+             "hi"
+            ],
+            "ko_keys": [
+             "안녕"
+            ]
+           },
+           {
+            "en": "Let's play!",
+            "keys": [
+             "play"
+            ],
+            "ko_keys": [
+             "놀자"
+            ]
+           }
+          ]
+         }
+        },
+        {
+         "keys": [
+          "sky",
+          "cloud"
+         ],
+         "ko_keys": [
+          "하늘",
+          "구름"
+         ],
+         "react": "Whoosh! We are in the sky!",
+         "react_ko": "슝! 하늘 위야!",
+         "narr": "The magic box flies up in the sky. The clouds are soft and white.",
+         "narr_ko": "마법 상자가 하늘 높이 날아요. 구름이 하얗고 폭신해요.",
+         "stickers": [],
+         "scene": "sky",
+         "next": {
+          "q": "A big bird comes. What does it say?",
+          "q_ko": "커다란 새가 왔어. 뭐라고 할까?",
+          "choices": [
+           {
+            "en": "Hello, friends!",
+            "keys": [
+             "hello",
+             "hi"
+            ],
+            "ko_keys": [
+             "안녕"
+            ]
+           },
+           {
+            "en": "Let's play!",
+            "keys": [
+             "play"
+            ],
+            "ko_keys": [
+             "놀자"
+            ]
+           }
+          ]
+         }
+        }
+       ],
+       "other": {
+        "keys": [],
+        "ko_keys": [],
+        "react": "{Child}? Let's go!",
+        "react_ko": "{child}? 가자!",
+        "narr": "The magic box takes them to a new place: {idea}!",
+        "narr_ko": "마법 상자가 새로운 곳으로 데려가요: {idea}!",
+        "stickers": [],
+        "scene": "",
+        "next": {
+         "q": "A new friend comes. What does it say?",
+         "q_ko": "새 친구가 왔어. 뭐라고 할까?",
+         "choices": [
+          {
+           "en": "Hello, friends!",
+           "keys": [
+            "hello",
+            "hi"
+           ],
+           "ko_keys": [
+            "안녕"
+           ]
+          },
+          {
+           "en": "Let's play!",
+           "keys": [
+            "play"
+           ],
+           "ko_keys": [
+            "놀자"
+           ]
+          }
+         ]
+        }
+       },
+       "beat": "Event: the magic box lands somewhere. The child chooses where."
+      },
+      {
+       "kind": "imagine",
+       "stage": "해결",
+       "speaker": "jack",
+       "q_speaker": "wacky",
+       "q": "What does our new friend say?",
+       "q_ko": "새 친구가 뭐라고 할까?",
+       "choices": [
+        {
+         "en": "Hello, friends!",
+         "keys": [
+          "hello",
+          "hi"
+         ],
+         "ko_keys": [
+          "안녕"
+         ]
+        },
+        {
+         "en": "Let's play!",
+         "keys": [
+          "play"
+         ],
+         "ko_keys": [
+          "놀자"
+         ]
+        }
+       ],
+       "branches": [
+        {
+         "keys": [
+          "hello",
+          "hi"
+         ],
+         "ko_keys": [
+          "안녕"
+         ],
+         "react": "Hello! It's so friendly!",
+         "react_ko": "안녕! 정말 다정하다!",
+         "narr": "The new friend says, \"Hello, friends!\" Everyone smiles.",
+         "narr_ko": "새 친구가 말해요. \"안녕, 친구들!\" 모두 웃어요.",
+         "stickers": [],
+         "scene": "",
+         "next": null
+        },
+        {
+         "keys": [
+          "play"
+         ],
+         "ko_keys": [
+          "놀자"
+         ],
+         "react": "Yay! Let's play together!",
+         "react_ko": "야호! 같이 놀자!",
+         "narr": "The new friend says, \"Let's play!\" They play tag together.",
+         "narr_ko": "새 친구가 말해요. \"같이 놀자!\" 모두 함께 술래잡기를 해요.",
+         "stickers": [],
+         "scene": "",
+         "next": null
+        }
+       ],
+       "other": {
+        "keys": [],
+        "ko_keys": [],
+        "react": "{Child}! What a fun friend!",
+        "react_ko": "{child}! 정말 재밌는 친구다!",
+        "narr": "The new friend says, \"{child}\" Everyone laughs.",
+        "narr_ko": "새 친구가 말해요. \"{child}\" 모두 웃어요.",
+        "stickers": [],
+        "scene": "",
+        "next": null
+       },
+       "beat": "Solve: they meet a new friend."
+      },
+      {
+       "kind": "expression",
+       "stage": "결말",
+       "speaker": "wacky",
+       "q_speaker": "wacky",
+       "q": "Our new friend likes singing best. What do you like best?",
+       "q_ko": "새 친구는 노래하는 걸 제일 좋아해. 너는 뭐가 제일 좋아?",
+       "frame": "I like ___ best.",
+       "choices": [
+        {
+         "en": "I like swimming best.",
+         "keys": [
+          "swim"
+         ],
+         "ko_keys": []
+        },
+        {
+         "en": "I like flying kites best.",
+         "keys": [
+          "kite"
+         ],
+         "ko_keys": []
+        }
+       ],
+       "react": "Beep! I like {w} best, too! {together}",
+       "react_ko": "삐빅! 나도 {ko}이 제일 좋아! 우리 같이 하자!",
+       "narr": "{name} and the new friend enjoy {w} together. What a magic day!",
+       "narr_ko": "{name_ko}와 새 친구는 함께 {ko}을 즐겨요. 정말 마법 같은 하루예요!",
+       "scene": "",
+       "beat": "Ending: I like ~ best, then Let's go ~ together!"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "b6_u02",
+   "book": 6,
+   "no": 2,
+   "title": "Where can I find the restroom?",
+   "theme": "Places and things that you are looking for",
+   "theme_ko": "찾는 장소와 물건",
+   "key_patterns": [
+    "Where can I find the restroom?",
+    "I'm looking for a charging station."
+   ],
+   "vocabulary": [
+    "the restroom",
+    "a convenience store",
+    "a gift shop",
+    "a pharmacy",
+    "an elevator",
+    "a cafe",
+    "a fast food restaurant",
+    "the information center",
+    "the lost-and-found center",
+    "a hammock",
+    "a sun chair",
+    "a beach umbrella",
+    "the boardwalk",
+    "the lighthouse",
+    "a palm tree"
+   ],
+   "useful_expressions": [
+    "My battery is low!",
+    "I'm here."
+   ],
+   "useful_questions": [
+    "Where are you?"
+   ],
+   "goals": [
+    "Talking about places",
+    "Talking about what you are looking for"
+   ],
+   "turns": []
+  },
+  {
+   "id": "b6_u03",
+   "book": 6,
+   "no": 3,
+   "title": "How much is this?",
+   "theme": "Prices",
+   "theme_ko": "가격",
+   "key_patterns": [
+    "How much is this/that drone?",
+    "It's $100.",
+    "It's $40 for one and $70 for two."
+   ],
+   "vocabulary": [
+    "drone",
+    "cell phone",
+    "mini fan",
+    "wireless mic",
+    "laptop",
+    "selfie stick",
+    "sixty",
+    "seventy",
+    "eighty",
+    "ninety",
+    "hundred",
+    "birthday card",
+    "balloon",
+    "candle",
+    "banner",
+    "mask",
+    "water gun"
+   ],
+   "useful_expressions": [
+    "It's too expensive!"
+   ],
+   "useful_questions": [
+    "Can you help me find a good one?"
+   ],
+   "goals": [
+    "Talking about prices",
+    "Learning numbers sixty to a hundred",
+    "Understanding sales terms"
+   ],
+   "turns": []
+  },
+  {
+   "id": "b6_u04",
+   "book": 6,
+   "no": 4,
+   "title": "How about playing table tennis?",
+   "theme": "Suggestion",
+   "theme_ko": "제안하기",
+   "key_patterns": [
+    "How about playing table tennis?",
+    "It's on the second floor."
+   ],
+   "vocabulary": [
+    "playing table tennis",
+    "going to the theater",
+    "having a burger",
+    "going shopping",
+    "buying a present",
+    "sports center",
+    "theater",
+    "fast food restaurant",
+    "clothing store",
+    "toy shop",
+    "learning baking",
+    "having Chinese food",
+    "reading books",
+    "buying shoes",
+    "kids baking school",
+    "Chinese restaurant",
+    "library",
+    "shoe store",
+    "first",
+    "second",
+    "third",
+    "fourth",
+    "fifth",
+    "sixth",
+    "seventh",
+    "eighth",
+    "ninth"
+   ],
+   "useful_expressions": [
+    "Sounds good.",
+    "See you there at 12."
+   ],
+   "useful_questions": [
+    "Where do you want to meet?",
+    "Where is it?"
+   ],
+   "goals": [
+    "Making a suggestion",
+    "Making a plan to meet a friend",
+    "Using ordinal numbers"
+   ],
+   "turns": []
+  },
+  {
+   "id": "b6_u05",
+   "book": 6,
+   "no": 5,
+   "title": "Can I bring my dog?",
+   "theme": "Inviting",
+   "theme_ko": "초대하기",
+   "key_patterns": [
+    "Can you come to my birthday party?",
+    "Can I bring my dog?"
+   ],
+   "vocabulary": [
+    "my birthday party",
+    "my house",
+    "the concert",
+    "the picnic",
+    "the play",
+    "dog",
+    "friend",
+    "little brother",
+    "camera",
+    "hat",
+    "the school festival",
+    "the amusement park",
+    "the talent show",
+    "the baseball game"
+   ],
+   "useful_expressions": [
+    "Hold on.",
+    "Let me ask my mom."
+   ],
+   "useful_questions": [
+    "Can Jack bring his dog?"
+   ],
+   "goals": [
+    "Inviting someone to certain events",
+    "Asking for permission with \"can\""
+   ],
+   "turns": []
+  },
+  {
+   "id": "b6_u06",
+   "book": 6,
+   "no": 6,
+   "title": "You must be quiet in here.",
+   "theme": "Warnings",
+   "theme_ko": "주의하기",
+   "key_patterns": [
+    "You must be quiet in here.",
+    "You must not shout in here."
+   ],
+   "vocabulary": [
+    "be quiet",
+    "be on time",
+    "be careful",
+    "be polite",
+    "stop at the red light",
+    "wait in line",
+    "get enough sleep",
+    "shout",
+    "be late",
+    "run around",
+    "be rude",
+    "cross the street at the red light",
+    "cut in line",
+    "stay up late"
+   ],
+   "useful_expressions": [
+    "I can't hear you!"
+   ],
+   "useful_questions": [
+    "Pardon?",
+    "What did you say?"
+   ],
+   "goals": [
+    "Talking about obligations and restrictions",
+    "Giving warnings"
+   ],
+   "turns": []
+  },
+  {
+   "id": "b6_u07",
+   "book": 6,
+   "no": 7,
+   "title": "A coat is warmer than a jacket.",
+   "theme": "Taking a trip",
+   "theme_ko": "여행",
+   "key_patterns": [
+    "A coat is warmer than a jacket.",
+    "A car is more comfortable than a train."
+   ],
+   "vocabulary": [
+    "a jacket",
+    "a coat",
+    "warmer",
+    "a hill",
+    "a mountain",
+    "higher",
+    "bigger",
+    "silver",
+    "gold",
+    "more expensive",
+    "a car",
+    "a train",
+    "faster",
+    "more comfortable",
+    "a river",
+    "a lake",
+    "smaller",
+    "a rock",
+    "a feather",
+    "lighter",
+    "a bear",
+    "an elephant",
+    "heavier",
+    "English",
+    "math",
+    "more difficult"
+   ],
+   "useful_expressions": [
+    "Put on a coat.",
+    "Slow down! Chew it well."
+   ],
+   "useful_questions": [
+    "Is that a hill or a mountain?"
+   ],
+   "goals": [
+    "Comparing two things",
+    "Learning comparative forms"
+   ],
+   "turns": []
+  },
+  {
+   "id": "b6_u08",
+   "book": 6,
+   "no": 8,
+   "title": "She's the tallest member.",
+   "theme": "Favorite singing group",
+   "theme_ko": "좋아하는 그룹",
+   "key_patterns": [
+    "She's the tallest member.",
+    "(I think) he's the most handsome member."
+   ],
+   "vocabulary": [
+    "the tallest",
+    "the oldest",
+    "the youngest",
+    "the strongest",
+    "the funniest",
+    "the most popular",
+    "singer",
+    "the lightest",
+    "the heaviest",
+    "the longest",
+    "the most interesting",
+    "woman",
+    "man",
+    "child",
+    "boy",
+    "girl",
+    "bag",
+    "box",
+    "snake",
+    "book"
+   ],
+   "useful_expressions": [
+    "I didn't know that."
+   ],
+   "useful_questions": [
+    "Are they singers?",
+    "Who's the most handsome member?"
+   ],
+   "goals": [
+    "Making sentences using comparative/superlative adjectives",
+    "Expressing your own opinions"
+   ],
+   "turns": []
+  }
+ ]
+}
